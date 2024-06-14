@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    gap: 2rem;
+
+    background: #0B1B2B;
+    padding: 2rem 2rem 2rem 2.5rem;
+    border-radius: 10px;
+}
